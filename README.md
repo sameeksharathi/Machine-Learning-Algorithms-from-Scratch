@@ -1,1 +1,1 @@
-# Machine-Learning-Bootcamp
+# Machine-Learning-Algorithms-from-Scratch
