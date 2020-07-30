@@ -2,3 +2,4 @@
 
 1. MNIST - K Nearest Neighbors
 2. make_blobs - K Means Clustering
+3. <a href = "https://github.com/sameeksharathi/Machine-Learning-Algorithms-from-Scratch/tree/master/Logistic%20Regression%20-%20make_blobs">make_blobs</a> - Logistic Regression
